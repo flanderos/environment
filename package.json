@@ -1,6 +1,6 @@
 {
   "name": "flanderos-joker",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "application that tells jokes",
   "type": "module",
   "main": "src/index.js",
