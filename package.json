@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "name": "flanderos-joker",
   "version": "0.0.4",
   "description": "application that tells jokes",
   "type": "module",
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/flanderos/joker#readme",
   "dependencies": {
+    "example-joker": "^0.0.4",
     "give-me-a-joke": "^0.5.1"
   },
   "devDependencies": {
